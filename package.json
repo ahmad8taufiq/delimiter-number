@@ -1,13 +1,13 @@
 {
-  "name": "format-number",
+  "name": "delimiter-number",
   "version": "1.0.0",
-  "description": "Format Number",
+  "description": "Delimiter Number",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [
-    "format number"
+    "delimiter number"
   ],
   "author": "peweer",
   "license": "ISC",
