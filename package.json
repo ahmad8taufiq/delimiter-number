@@ -1,0 +1,20 @@
+{
+  "name": "format-number",
+  "version": "1.0.0",
+  "description": "Format Number",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "format number"
+  ],
+  "author": "peweer",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^10.7.3"
+  }
+}
